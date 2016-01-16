@@ -19,8 +19,8 @@
 
 #define PIN_A 0
 #define PIN_B 1
-#define ENABLE_PIN 3 // also green LED
-#define SWAP_PIN 4 // unused
+#define ENABLE_PIN 4 // also green LED
+#define SWAP_PIN 3 // unused
 #define BUTTON_PIN 2
 #define CLOCK_US 200
 
